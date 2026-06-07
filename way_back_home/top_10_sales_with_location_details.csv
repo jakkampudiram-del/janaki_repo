@@ -1,0 +1,19 @@
+location,item,total_amount,location name,city,region,country
+109,SSD-Drive,120.0,Capital Square,Ottawa,ON,Canada
+101,W-Mouse,25.5,Maple Leaf Hub,Toronto,ON,Canada
+101,G-Chair,210.0,Maple Leaf Hub,Toronto,ON,Canada
+101,Mon-Stand,35.0,Maple Leaf Hub,Toronto,ON,Canada
+105,Mouse-Pad,15.0,Pacific Gateway,Vancouver,BC,Canada
+105,M-Keyboard,89.99,Pacific Gateway,Vancouver,BC,Canada
+105,M-Keyboard,89.99,Emerald City Terminal,Seattle,WA,USA
+105,Mouse-Pad,15.0,Emerald City Terminal,Seattle,WA,USA
+110,Webcam-HD,55.25,French Quarter Annex,New Orleans,LA,USA
+102,USB-C Hub,45.0,Golden Gate Branch,San Francisco,CA,USA
+101,G-Chair,210.0,Liberty Plaza,New York,NY,USA
+101,W-Mouse,25.5,Liberty Plaza,New York,NY,USA
+101,Mon-Stand,35.0,Liberty Plaza,New York,NY,USA
+108,Desk-Lamp,19.99,Rocky Mountain Site,Denver,CO,USA
+101,W-Mouse,25.5,Southern Star,Austin,TX,USA
+101,Mon-Stand,35.0,Southern Star,Austin,TX,USA
+101,G-Chair,210.0,Southern Star,Austin,TX,USA
+103,Lap-Sleeve,22.5,Windy City Depot,Chicago,IL,USA
