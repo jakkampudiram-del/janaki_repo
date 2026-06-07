@@ -1,0 +1,30 @@
+[
+  {
+    "name": "location",
+    "type": "INTEGER"
+  },
+  {
+    "name": "item",
+    "type": "STRING"
+  },
+  {
+    "name": "total_amount",
+    "type": "FLOAT"
+  },
+  {
+    "name": "location name",
+    "type": "STRING"
+  },
+  {
+    "name": "city",
+    "type": "STRING"
+  },
+  {
+    "name": "region",
+    "type": "STRING"
+  },
+  {
+    "name": "country",
+    "type": "STRING"
+  }
+]

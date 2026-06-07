@@ -1,0 +1,14 @@
+[
+  {
+    "name": "location",
+    "type": "INTEGER"
+  },
+  {
+    "name": "item",
+    "type": "STRING"
+  },
+  {
+    "name": "total_amount",
+    "type": "FLOAT"
+  }
+]

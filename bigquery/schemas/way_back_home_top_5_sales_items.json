@@ -1,0 +1,10 @@
+[
+  {
+    "name": "item_name",
+    "type": "STRING"
+  },
+  {
+    "name": "total_sales",
+    "type": "FLOAT"
+  }
+]

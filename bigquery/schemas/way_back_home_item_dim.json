@@ -1,0 +1,30 @@
+[
+  {
+    "description": "item num",
+    "maxLength": "20",
+    "mode": "NULLABLE",
+    "name": "item_num",
+    "type": "STRING"
+  },
+  {
+    "description": "item name",
+    "maxLength": "50",
+    "mode": "NULLABLE",
+    "name": "item_name",
+    "type": "STRING"
+  },
+  {
+    "description": "item group",
+    "maxLength": "20",
+    "mode": "NULLABLE",
+    "name": "item_group",
+    "type": "STRING"
+  },
+  {
+    "description": "item department",
+    "maxLength": "20",
+    "mode": "NULLABLE",
+    "name": "item_dept",
+    "type": "STRING"
+  }
+]

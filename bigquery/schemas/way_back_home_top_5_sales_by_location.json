@@ -1,0 +1,10 @@
+[
+  {
+    "name": "location",
+    "type": "INTEGER"
+  },
+  {
+    "name": "total_amount",
+    "type": "FLOAT"
+  }
+]
