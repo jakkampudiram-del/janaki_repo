@@ -1,0 +1,36 @@
+[
+  {
+    "description": "location num ",
+    "mode": "NULLABLE",
+    "name": "location_id",
+    "type": "INTEGER"
+  },
+  {
+    "description": "location name",
+    "maxLength": "50",
+    "mode": "NULLABLE",
+    "name": "location name",
+    "type": "STRING"
+  },
+  {
+    "description": "city",
+    "maxLength": "50",
+    "mode": "NULLABLE",
+    "name": "city",
+    "type": "STRING"
+  },
+  {
+    "description": "region",
+    "maxLength": "20",
+    "mode": "NULLABLE",
+    "name": "region",
+    "type": "STRING"
+  },
+  {
+    "description": "country",
+    "maxLength": "20",
+    "mode": "NULLABLE",
+    "name": "country",
+    "type": "STRING"
+  }
+]

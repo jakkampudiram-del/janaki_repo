@@ -1,0 +1,26 @@
+[
+  {
+    "name": "date_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "location_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "item_id",
+    "type": "STRING"
+  },
+  {
+    "name": "qty",
+    "type": "INTEGER"
+  },
+  {
+    "name": "amount",
+    "type": "FLOAT"
+  }
+]

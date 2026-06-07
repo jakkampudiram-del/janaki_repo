@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Primary star type (e.g., blue_giant, red_dwarf, green_pulsar, yellow_sun)",
+    "mode": "REQUIRED",
+    "name": "primary_star",
+    "type": "STRING"
+  },
+  {
+    "description": "Dominant nebula type in the region",
+    "mode": "REQUIRED",
+    "name": "nebula_type",
+    "type": "STRING"
+  },
+  {
+    "description": "Overall stellar color temperature",
+    "mode": "REQUIRED",
+    "name": "stellar_color",
+    "type": "STRING"
+  },
+  {
+    "description": "Planet quadrant (NW, NE, SW, SE)",
+    "mode": "REQUIRED",
+    "name": "quadrant",
+    "type": "STRING"
+  },
+  {
+    "description": "Biome type (CRYO, VOLCANIC, BIOLUMINESCENT, FOSSILIZED)",
+    "mode": "REQUIRED",
+    "name": "biome",
+    "type": "STRING"
+  }
+]

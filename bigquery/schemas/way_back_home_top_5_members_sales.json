@@ -1,0 +1,14 @@
+[
+  {
+    "name": "first_nm",
+    "type": "STRING"
+  },
+  {
+    "name": "last_nm",
+    "type": "STRING"
+  },
+  {
+    "name": "total_sales",
+    "type": "FLOAT"
+  }
+]

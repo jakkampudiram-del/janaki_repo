@@ -1,0 +1,22 @@
+[
+  {
+    "description": "member_id",
+    "mode": "NULLABLE",
+    "name": "member_id",
+    "type": "INTEGER"
+  },
+  {
+    "description": "email adress",
+    "maxLength": "50",
+    "mode": "NULLABLE",
+    "name": "email_address",
+    "type": "STRING"
+  },
+  {
+    "description": "country",
+    "maxLength": "10",
+    "mode": "NULLABLE",
+    "name": "country",
+    "type": "STRING"
+  }
+]

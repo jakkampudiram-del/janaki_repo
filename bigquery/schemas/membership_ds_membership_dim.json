@@ -1,0 +1,28 @@
+[
+  {
+    "description": "member id",
+    "mode": "NULLABLE",
+    "name": "member_id",
+    "type": "INTEGER"
+  },
+  {
+    "description": "Membership card number",
+    "mode": "NULLABLE",
+    "name": "card_num",
+    "type": "INTEGER"
+  },
+  {
+    "description": "first name",
+    "maxLength": "30",
+    "mode": "NULLABLE",
+    "name": "first_nm",
+    "type": "STRING"
+  },
+  {
+    "description": "last name",
+    "maxLength": "30",
+    "mode": "NULLABLE",
+    "name": "last_nm",
+    "type": "STRING"
+  }
+]
