@@ -1,0 +1,8 @@
+*.json
+credentials/
+.dbt/profiles.yml
+__pycache__/
+*.pyc
+.venv/
+/target/
+/logs/
