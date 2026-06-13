@@ -1,0 +1,1 @@
+CREATE OR REPLACE EXTERNAL TABLE `waybackhome-8nw4qqaw543g6sm9h5`.`membership_ds`.`user_profiles` OPTIONS(format='JSON', uris=['gs://janaki_ai/exports/raw_logs/nested_user_profiles.json']);
