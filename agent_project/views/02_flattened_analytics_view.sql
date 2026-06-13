@@ -1,1 +1,1 @@
-CREATE OR REPLACE VIEW `waybackhome-8nw4qqaw543g6sm9h5`.`membership_ds`.`v_flattened_user_profiles` AS SELECT b.user_id, e.event_id, e.event_name, e.timestamp, e.details FROM `waybackhome-8nw4qqaw543g6sm9h5`.`membership_ds`.`user_profiles` AS b CROSS JOIN UNNEST(b.log_events) AS e;
+CREATE OR REPLACE VIEW `waybackhome-8nw4qqaw543g6sm9h5`.`membership_ds`.`v_flattened_user_profiles` AS SELECT b.user_id, e.event_name, e.event_timestamp FROM `waybackhome-8nw4qqaw543g6sm9h5`.`membership_ds`.`user_profiles_new` AS b CROSS JOIN UNNEST(b.log_events) AS e;
