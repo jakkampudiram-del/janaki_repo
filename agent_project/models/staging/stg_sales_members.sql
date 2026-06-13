@@ -1,0 +1,1 @@
+SELECT id,sale_id,member_id,sale_date,amount,status,updated_at AS dbt_updated_at,MD5(CAST(id AS STRING) || CAST(sale_id AS STRING) || CAST(member_id AS STRING) || CAST(sale_date AS STRING) || CAST(amount AS STRING) || CAST(status AS STRING)) AS dbt_record_hash FROM {{ source('raw', 'sales_members') }}
